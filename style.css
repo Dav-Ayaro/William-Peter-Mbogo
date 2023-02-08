@@ -43,10 +43,10 @@ div.navigational_links ul{
 }
 div.navigational_links ul li{
     list-style: none;
-    margin: 10px;
 }
 div.navigational_links ul li a{
     text-decoration: none;
+    margin: 10px;
 }
 
 
