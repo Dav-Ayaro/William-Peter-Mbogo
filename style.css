@@ -1,0 +1,26 @@
+*{
+    font-family: sans-serif,'poppins';
+}
+div.all_joseh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+div.all_joseh img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #000;
+}
+div.joseph_real{
+    margin: auto;
+    width: 50%;
+}
+h1,h5{
+    color: #000;
+}
+ul li{
+    color: red;
+}
