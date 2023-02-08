@@ -40,10 +40,10 @@ div.navigational_links ul{
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    margin: 5px;
 }
 div.navigational_links ul li{
     list-style: none;
+    margin: 10px;
 }
 div.navigational_links ul li a{
     text-decoration: none;
