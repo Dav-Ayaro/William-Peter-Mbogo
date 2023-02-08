@@ -35,6 +35,21 @@ div.joseh_social ul li{
 div.joseh_social ul li a{
     text-decoration: none;
 }
+
+div.navigational_links ul{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+div.navigational_links ul li{
+    list-style: none;
+}
+div.navigational_links ul li a{
+    text-decoration: none;
+}
+
+
+
 @media(max-width:1024px){
     h1{
         text-align: center;
