@@ -24,3 +24,15 @@ h1,h5{
 ul li{
     color: red;
 }
+
+@media(max-width:1024px){
+    h1{
+        text-align: center;
+        font-size: medium;
+    }
+    div.joseph_real{
+        margin: auto;
+        width: 100%;
+        text-align: center;
+    }
+}
