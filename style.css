@@ -24,7 +24,16 @@ h1,h5{
 ul li{
     color: red;
 }
-
+div.joseh-social ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+div.joseh-social ul li{
+    list-style: none;
+}
+div.joseh-social ul li a{
+    text-decoration: none;
+}
 @media(max-width:1024px){
     h1{
         text-align: center;
