@@ -27,11 +27,12 @@ ul li{
 ul{
     display: flex;
     justify-content: space-evenly;
+    flex-direction:row ;
 }
-div.joseh-social ul li{
+div.joseh_social ul li{
     list-style: none;
 }
-div.joseh-social ul li a{
+div.joseh_social ul li a{
     text-decoration: none;
 }
 @media(max-width:1024px){
