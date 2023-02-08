@@ -35,4 +35,10 @@ ul li{
         width: 100%;
         text-align: center;
     }
+    div.all_joseh img{
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        background: #000;
+    }
 }
