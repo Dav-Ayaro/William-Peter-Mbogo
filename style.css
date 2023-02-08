@@ -38,8 +38,9 @@ div.joseh_social ul li a{
 
 div.navigational_links ul{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     flex-direction: row;
+    margin: 5px;
 }
 div.navigational_links ul li{
     list-style: none;
