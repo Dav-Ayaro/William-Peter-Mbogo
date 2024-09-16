@@ -51,6 +51,22 @@ div.navigational_links ul li a{
     margin: 10px;
 }
 
+.workExp{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #664646;
+}
+.totalexp{
+    width: 60%;
+}
+.totalexp > .title{
+    font-weight: bold;
+    font-size: 16px;
+    padding: 10px;
+}
+
 
 
 @media(max-width:1024px){
